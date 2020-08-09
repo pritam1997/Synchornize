@@ -1,2 +1,2 @@
-# Synchornize
-Synchornize block
+# Synchronize
+Synchronize block
